@@ -1,0 +1,43 @@
+question,group,retrieved_right_file,correct
+What causes coffee leaf rust?,answerable,True,True
+What type of organism is Hemileia vastatrix?,answerable,True,True
+Where did coffee leaf rust originate?,answerable,True,True
+When was coffee leaf rust first reported?,answerable,True,False
+What causes coffee berry disease?,answerable,False,False
+Which part of the coffee plant does berry disease attack?,answerable,True,True
+What is the coffee berry borer?,answerable,True,True
+How does the coffee berry borer damage coffee?,answerable,False,True
+Where did Arabica coffee originate?,answerable,True,True
+What are the two most important coffee species?,answerable,True,True
+How much caffeine do arabica beans contain?,answerable,True,True
+How much caffeine do robusta beans contain?,answerable,True,False
+What is a coffee cherry?,answerable,True,True
+What are the main methods of processing coffee?,answerable,True,True
+What is the wet process for coffee?,answerable,True,True
+What is the dry process for coffee?,answerable,True,True
+What is coffee fermentation used for?,answerable,True,False
+What happens during coffee roasting?,answerable,True,False
+What are the common coffee roast levels?,answerable,True,True
+What is the first crack in roasting?,answerable,True,True
+What is coffee cupping?,answerable,True,True
+What is evaluated in cupping?,answerable,True,True
+What are the basic steps of coffee preparation?,answerable,True,True
+What are common ways to brew coffee?,answerable,True,True
+What is espresso?,answerable,True,True
+Which flavour notes are typical of Sidamo coffee?,answerable,True,True
+Which coffee regions are known in Ethiopia?,answerable,True,True
+What is Yirgacheffe coffee?,answerable,False,True
+What kind of coffee is grown around Harar?,answerable,False,True
+What are the three rounds of the Ethiopian coffee ceremony?,answerable,True,True
+How is coffee served in Ethiopia?,answerable,True,True
+What is niter kibbeh?,answerable,True,False
+What is a jebena?,answerable,True,True
+Who discovered coffee according to legend?,answerable,True,True
+Which countries are the top coffee producers?,answerable,True,True
+What is coffee made from?,answerable,True,True
+What is the capital of France?,refusal,True,True
+Who won the football world cup in 2022?,refusal,True,True
+How do I bake bread?,refusal,True,True
+Who is the president of the United States?,refusal,True,True
+What is the best programming language?,refusal,True,True
+How do I treat malaria?,refusal,True,True

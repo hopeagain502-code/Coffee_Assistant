@@ -1,0 +1,61 @@
+Hypothenemus hampei, the coffee berry borer, is a small beetle native to Africa. It is the most harmful insect pest of coffee worldwide. Spanish common names of the insect include barrenador del café (coffee borer), gorgojo del café (coffee weevil), and broca del café (coffee drill).
+
+Description
+The female Hypothenemus hampei have two larval stages, while the males only have one; each larval phase lasts 10 to 26 days. The adults are small black beetles with strong mandibles. The females can be anywhere from 1.4–1.8 millimeters long, with the males being slightly smaller at around 1.2–1.6 millimeters long. Female beetles can fly short distances, while the males cannot, as they have less developed wings compared to the females.  Hypothenemus hampei is sometimes mistaken for the false coffee berry borers (H. obscurus and H. seriatus) and Xylosandrus (Scolytidae), but these species do not enter the coffee bean endosperm.
+
+Life cycle
+The maturation of the insect from egg to adult lasts anywhere from 24 to 45 days, varying according to the weather. Usually, the female drills the berry through the central disc, although it can enter through the side walls if the fruit is dry. Two days after penetration, the beetle lays 35–50 eggs, which produce 13 females for each male. The average lifespan for females is anywhere from 35 to 190 days. Sibling insects mate inside the seed, with the females then spreading either to other coffee plants or further along the same plant. The males never leave the fruit.
+The same plant can host three to five generations of beetles, with up to 100 beetles being found in a single fruit. The insect is very sensitive to desiccation, and waits for the rains to leave the fruit. The most affected areas in the crops are places exposed to the least sunlight and the most moisture.
+
+Colonisation
+The hosts of H. hampei are Coffea arabica and Coffea canephora. The female beetles attack the fruits from 8 weeks past the flowering to 32 weeks. When the insect enters, it builds galleries in the endosperm where the eggs are deposited.
+
+Distribution
+The insect is endemic to central Africa and has now spread to most coffee-producing countries through the accidental introduction of contaminated seeds. The first report in the American continent was in Brazil (1926). In the 1970s, the insect invaded Guatemala and Mexico. The beetle entered Colombia during the late 1980s. It entered the Dominican Republic in the 1990s. It was detected in Puerto Rico in August 2007.  It was discovered in Kona (Big Island), Hawaii in August 2010. The beetle is a significant pest in Taiwan.
+
+Genome and caffeine detoxification
+A draft genome of the coffee berry borer was published in 2025 and consisted of 163 million base pairs. A genome assembly was published in 2021. Microbes in the gut of the insect produce caffeine demethylase which breaks down caffeine.
+
+Pest management
+The presence of the insect affects the economy of over 20 million families that depend on the coffee harvest. Due to the losses in yield and quality caused by the insect, growers end up losing significant amounts of income. Most pest management strategies have proven to be ineffective in controlling the insect, among these are insecticides, monitoring and controlled harvest, however, growers in Hawaii are managing infestations successfully through the use of biological control agents. The use of repellents is also an effective strategy that reduces population levels across wide areas.
+
+Chemical control
+Insecticides are not a viable option due to their high cost and their negative effects on the environment. Resistance to the highly toxic insecticide endosulfan, which has been banned in many countries, has been reported in New Caledonia and other countries.
+
+Biological control
+Biological control methods use the natural enemies of the coffee berry borer to reduce the population. Pest management through biological control can utilize predators, parasitoids and fungal entomopathogens that attack the immature or adult beetles.
+
+Birds
+During the time when beetle offspring emerge from each commercially ruined berry to disperse, they are vulnerable to predation. The yellow warbler, rufous-capped warbler, and other insectivorous birds have been shown to reduce by 50% the number of coffee berry borers in Costa Rican coffee plantations.
+
+Parasitoids
+The parasitoids used to control the borer beetle are Hymenoptera (wasps) native to Africa. Although they have a low impact in the beetle population, the use of biological controls allows the product to qualify as organic food.
+
+Bethylid parasitoids (Bethylidae): Cephalonomia stephanoderis Betrem and Prorops nasuta Waterston were introduced in some Latin American countries from Africa during the 1980s and 1990s with low success. In the late 1990s, the C. hyalinipennis native of North America was described as attacking the borer beetle in Chiapas, south of Mexico. This species preys on the eggs of H. hampei. Another useful bethylid is Sclerodermus cadavericus Benoit, but its management is difficult, since it is an aggressive wasp and can cause severe dermatitis.
+Eulophid wasps (Eulophidae): Phymastichus coffea was discovered in Togo in 1987. It attacks the adult beetle, and mass-rearing in Colombia has been successful. It has a capacity to stay in the coffee crops for a long time.
+Braconid parasitoids (Braconidae): Heterospilus coffeicola Schmiedeknecht was observed in Uganda, but its reproduction in laboratories has been unsuccessful.
+
+Insect predators
+Ants (Hymenoptera: Formicidae) have been reported as predators of H. hampei but they do not control the insect. Research at the Centro Nacional de Investigaciones de Café (Cenicafé, Colombia) reported other insect families as predators: Anthocoridae (Hemiptera) and Cucujidae (Coleoptera). The following are the genus and species that have been reported to attack the borer beetle:
+
+Formicidae: Solenopsis, Pheidole, Wasmannia, Paratrechina, Crematogaster, Brachymyrmex and Prenolepis
+Anthocoridae: Calliodes and Scoloposcelis
+Cucujidae: Cathartus quadricollis (Guérin-Méneville)
+
+Nematodes
+Metaparasitylenchus hypothenemi (Nematoda: Allantonematidae) has been reported in Mexico.  A Panagrolaimus sp. has been reported in the field in India.  In laboratory experiments, Heterorhabditis sp. and Steinernema feltiae have been shown to infect the insect.
+
+Fungal entomopathogens
+Beauveria bassiana infection causes high mortality of the insect.  For infestations in the coffee growing region of Hawaii the products Botaniguard and Mycotrol by Certis Biologicals have been developed to deliver Beauveria bassiana to coffee plants and remain an effective agent at controlling infestations.  Other products have been developed in Colombia and elsewhere. Other fungi recorded to attack the insect include: Hirsutella eleutheratorum, Isaria sp. (previously placed in the genus Paecilomyces),  and Metarhizium sp.
+
+References
+Further reading
+Barrera JF, Parra M El café en Chiapas y la investigación en Ecosur. Ecosur pp. 6 (formerly available as http://www.ecosur.mx/Difusi%F3n/ecofronteras/ecofrontera/ecofront12/cafe%20en%20chiapas.pdf)
+Borbón, O (1991) La broca del fruto del cafeto: programa cooperativo ICAFE-MAG. ICAFE. San José, Costa Rica. 50 pp
+Bustillo AE, Cardenas R, Posada FJ (2002) Natural enemies and competitors of Hypothenemus hampei (Ferrari) (Coleoptera: Scolytidae) in Colombia. Neotrop Entomol 31:635-639 available
+Camilo JE, Olivares FF, Jiménez HA (2003) Fenología de la broca del café (Hypothenemus hampei Ferrari) durante el desarrollo del fruto. Agronomía Mesoamericana 14: 59-63 available
+Ceja-Navarro JA, Vega FE, Karaoz U, Hao S, Jenkins S, Lim HC, Kosina P, Infante F, Northen TR, Brodie EL (2015) Gut microbiota mediate caffeine detoxification in the primary insect pest of coffee. Nature Communications 6:7618. [3]
+Corbett, GH (1933) Some preliminary observations on the coffee berry beetle borer, Stephanoderes (Cryphalus) hampei Ferr. J Malayan Agric 21:8-22.
+Jaramillo J, Borgemeister C, Baker P (2006) Coffee berry borer Hypothenemus hampei (Coleoptera: Curculionidae): searching for sustainable control strategies. Bulletin of Entomological Research 96:223-233.
+Rojas MG, Morales-Ramos JA, Harrington TC (1999) Association between Hypothenemus hampei (Coleoptera : Scolytidae) and Fusarium solani (Moniliales : Tuberculariaceae). Ann Entomol Soc Am 92:98-100 available
+Vega FE, Brown SM, Chen H, Shen E, Nair MB, Ceja-Navarro JA, Brodie EL, Infante F, Dowd PF, Pain A (2015) Draft genome of the most devastating insect pest of coffee worldwide: the coffee berry borer: Hypothenemus hampei. Scientific Reports 5:12525. [4]

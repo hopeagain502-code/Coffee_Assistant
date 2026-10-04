@@ -1,0 +1,43 @@
+question,expected_source,keywords,should_refuse
+What causes coffee leaf rust?,leaf_rust,Hemileia|fungus,no
+What type of organism is Hemileia vastatrix?,leaf_rust,fungus|basidiomycete,no
+Where did coffee leaf rust originate?,leaf_rust,Ethiopia|Africa|mountains,no
+When was coffee leaf rust first reported?,leaf_rust,1860|1869|British,no
+What causes coffee berry disease?,kahawae,Colletotrichum|fungus,no
+Which part of the coffee plant does berry disease attack?,kahawae,berries|berry|green,no
+What is the coffee berry borer?,borer,beetle|Hypothenemus,no
+How does the coffee berry borer damage coffee?,borer,bean|berry|cherry|larvae,no
+Where did Arabica coffee originate?,arabica,Ethiopia,no
+What are the two most important coffee species?,cherry,arabica|robusta,no
+How much caffeine do arabica beans contain?,cherry,0.8|1.4,no
+How much caffeine do robusta beans contain?,cherry,1.7|4.0,no
+What is a coffee cherry?,cherry,fruit|seed|bean,no
+What are the main methods of processing coffee?,processing,washed|wet|dry|natural,no
+What is the wet process for coffee?,processing,wet|washed|ferment|mucilage,no
+What is the dry process for coffee?,processing,dry|natural|sun,no
+What is coffee fermentation used for?,processing,mucilage|ferment|remove,no
+What happens during coffee roasting?,roasting,heat|temperature|chemical|Maillard,no
+What are the common coffee roast levels?,roasting,light|medium|dark,no
+What is the first crack in roasting?,roasting,crack|pop|steam,no
+What is coffee cupping?,cupping,taste|aroma|evaluat|sensory,no
+What is evaluated in cupping?,cupping,aroma|flavor|flavour|acidity|body,no
+What are the basic steps of coffee preparation?,preparation,roasted|ground,no
+What are common ways to brew coffee?,preparation,espresso|drip|filter|press,no
+What is espresso?,preparation,pressure|espresso,no
+Which flavour notes are typical of Sidamo coffee?,ethiopia,lemon|citrus,no
+Which coffee regions are known in Ethiopia?,ethiopia,Sidamo|Harar|Yirgacheffe|Limu,no
+What is Yirgacheffe coffee?,yirgacheffe,Yirgacheffe|Sidama|Gedeo|coffee,no
+What kind of coffee is grown around Harar?,harar,coffee|Harar,no
+What are the three rounds of the Ethiopian coffee ceremony?,cuisine,abol|tona,no
+How is coffee served in Ethiopia?,cuisine,sugar|salt|si'ni|butter,no
+What is niter kibbeh?,cuisine,butter|spice|clarified,no
+What is a jebena?,cuisine,jebena|pot|clay,no
+Who discovered coffee according to legend?,,Kaldi|goat,no
+Which countries are the top coffee producers?,,Brazil|Vietnam|Colombia,no
+What is coffee made from?,,roasted|bean|seed,no
+What is the capital of France?,,,yes
+Who won the football world cup in 2022?,,,yes
+How do I bake bread?,,,yes
+Who is the president of the United States?,,,yes
+What is the best programming language?,,,yes
+How do I treat malaria?,,,yes
